@@ -8,3 +8,17 @@ The UK holds the largest concentration of CCTV cameras on the planet, and yet ca
 
 Who watches the watchers?
 
+### We're starting using: 
+    * [OpenStreetMap](http://www.openstreetmap.org/about)
+    * OSM tag [surveillance](http://wiki.openstreetmap.org/wiki/Tag:man_made%3Dsurveillance) and the [initial proposal](http://wiki.openstreetmap.org/wiki/Proposed_features/Surveillance) for the use of the tag
+    
+### How to Contribute (draft)
+
+1. [Create an OSM account](https://www.openstreetmap.org/user/new)
+
+#### TBD
+    * Code of Conduct
+    * Collaborative map layer
+    * Look at possible inegrations of GPS - I've used [ODK](https://opendatakit.org) previously. It also has an [Android only phone app](https://opendatakit.org/use/collect/)
+    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HqqUdfz9Uyc" frameborder="0" allowfullscreen></iframe>
