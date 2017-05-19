@@ -1,4 +1,4 @@
-We're here to collaboratively report, identify, and track the location of CCTV cameras.
+We're here to collaboratively report, identify, and track the location of CCTV Surveillance cameras.
 
 They're meant to add a sense of security. Would you rather park you car or bike near one?
 
