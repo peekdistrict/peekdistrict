@@ -22,3 +22,9 @@ OSM tag [surveillance](http://wiki.openstreetmap.org/wiki/Tag:man_made%3Dsurveil
     * Code of Conduct
     * Collaborative map layer
 Look at possible inegrations of GPS - I've used [ODK](https://opendatakit.org) previously. It also has an [Android only phone app](https://opendatakit.org/use/collect/). Check the video from the homepage https://www.youtube.com/watch?v=HqqUdfz9Uyc
+
+
+### Links
+  Chaos Computer Club talk from 2016's 33c3 - [Corporate surveillance, digital tracking, big data & privacy](https://www.youtube.com/watch?v=3ABaGEWjFIg)
+  
+  [Surveillance Under Surveillance](https://kamba4.crux.uberspace.de/) My inspiration was seeing this project pinged out on the slides between talks at 33c3.
