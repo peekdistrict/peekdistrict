@@ -22,7 +22,6 @@ OSM tag [surveillance](http://wiki.openstreetmap.org/wiki/Tag:man_made%3Dsurveil
 [Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
 
 #### TBD
-    * Code of Conduct
     * Collaborative map layer
 Look at possible inegrations of GPS - I've used [ODK](https://opendatakit.org) previously. It also has an [Android only phone app](https://opendatakit.org/use/collect/). Check the video from the homepage https://www.youtube.com/watch?v=HqqUdfz9Uyc
 
