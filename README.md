@@ -8,6 +8,8 @@ The UK holds the largest concentration of CCTV cameras on the planet, and yet ca
 
 Who watches the watchers?
 
+By opening up this collaborative data we hope to improve public awareness; of state and corporate monitoring, and to enable these devices to work for our benefit through greater transparency and accountability.
+
 ### We're starting using: 
 [OpenStreetMap](http://www.openstreetmap.org/about)
 OSM tag [surveillance](http://wiki.openstreetmap.org/wiki/Tag:man_made%3Dsurveillance) and the [initial proposal](http://wiki.openstreetmap.org/wiki/Proposed_features/Surveillance) for the use of the tag
