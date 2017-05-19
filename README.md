@@ -22,4 +22,5 @@ Who watches the watchers?
     * Look at possible inegrations of GPS - I've used [ODK](https://opendatakit.org) previously. It also has an [Android only phone app](https://opendatakit.org/use/collect/)
     
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HqqUdfz9Uyc" frameborder="0" allowfullscreen></iframe>
-[![Watch the video](http://img.youtube.com/vi/HqqUdfz9Uyc/0.jpg)](https://www.youtube.com/embed/HqqUdfz9Uyc)
+[![Watch the video](http://img.youtube.com/vi/HqqUdfz9Uyc/0.jpg)](https://www.youtube.com/watch?v=HqqUdfz9Uyc)
+[![Alt text for your video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
