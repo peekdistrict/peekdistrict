@@ -18,6 +18,9 @@ OSM tag [surveillance](http://wiki.openstreetmap.org/wiki/Tag:man_made%3Dsurveil
 
 [Create an OSM account](https://www.openstreetmap.org/user/new)
 
+### Code of Conduct
+[Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+
 #### TBD
     * Code of Conduct
     * Collaborative map layer
