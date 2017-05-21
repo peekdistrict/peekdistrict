@@ -4,7 +4,7 @@ They're meant to add a sense of security. Would you rather park you car or bike 
 
 If something goes wrong, getting access to the footage could help you. If something DOES go wrong, does a CCTV camera help you?
 
-The UK holds the largest concentration of CCTV cameras on the planet, and yet cameras have increased in many aspects of our lives, across the globe.
+The UK holds the largest concentration of CCTV cameras on the planet, and yet cameras have increased in many aspects of our lives, across the globe. 2013 estimates show UK coverage at 5.9 Million (1 camera for every 11 people).
 
 Who watches the watchers?
 
