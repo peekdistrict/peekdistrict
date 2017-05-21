@@ -31,4 +31,4 @@ Look at possible inegrations of GPS - I've used [ODK](https://opendatakit.org) p
   
   [Surveillance Under Surveillance](https://kamba4.crux.uberspace.de/) My inspiration was seeing this project pinged out on the slides between talks at 33c3.
 
-  UK's Information Commissioner's Office (ICO) CCTV guidance for businesses - [In The Picture: A data protection code of practice](https://ico.org.uk/for-organisations/guide-to-data-protection/cctv/) for sureveillance cameras and personal information.
+  UK's Information Commissioner's Office (ICO) CCTV guidance for businesses - [In The Picture: A data protection code of practice](https://ico.org.uk/for-organisations/guide-to-data-protection/cctv/) for surveillance cameras and personal information.
