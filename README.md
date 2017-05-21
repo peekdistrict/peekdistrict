@@ -34,3 +34,5 @@ Look at possible inegrations of GPS - I've used [ODK](https://opendatakit.org) p
   UK's Information Commissioner's Office (ICO) CCTV guidance for businesses - [In The Picture: A data protection code of practice](https://ico.org.uk/for-organisations/guide-to-data-protection/cctv/) for surveillance cameras and personal information.
 
   UK Government [Surveillance Camera Commissioner](https://www.gov.uk/government/organisations/surveillance-camera-commissioner)
+  
+  CE Pro [11 Types of CCTV Camera](http://www.cepro.com/article/12_common_types_of_security_cameras/)
