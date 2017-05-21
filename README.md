@@ -30,6 +30,8 @@ Look at possible inegrations of GPS - I've used [ODK](https://opendatakit.org) p
   Chaos Computer Club talk from 2016's 33c3 - [Corporate surveillance, digital tracking, big data & privacy](https://www.youtube.com/watch?v=3ABaGEWjFIg)
   
   [Surveillance Under Surveillance](https://kamba4.crux.uberspace.de/) My inspiration was seeing this project pinged out on the slides between talks at 33c3.
+  
+  Taylor Wessing 2014 summary [Regulating CCTV Camera Use](https://united-kingdom.taylorwessing.com/globaldatahub/article_regulating_cctv.html) estimates the use of 5.9 million cameras in use as of 2013
 
   UK's Information Commissioner's Office (ICO) CCTV guidance for businesses - [In The Picture: A data protection code of practice](https://ico.org.uk/for-organisations/guide-to-data-protection/cctv/) for surveillance cameras and personal information.
 
