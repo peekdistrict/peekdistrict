@@ -14,9 +14,9 @@ By opening up this collaborative data we hope to improve public awareness; of st
 [OpenStreetMap](http://www.openstreetmap.org/about)
 OSM tag [surveillance](http://wiki.openstreetmap.org/wiki/Tag:man_made%3Dsurveillance) and the [initial proposal](http://wiki.openstreetmap.org/wiki/Proposed_features/Surveillance) for the use of the tag
     
-### How to Contribute (draft)
+### How to Contribute
 
-[Create an OSM account](https://www.openstreetmap.org/user/new)
+[Contribution Guide](/CONTRIBUTING.md)
 
 ### Code of Conduct
 [Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
