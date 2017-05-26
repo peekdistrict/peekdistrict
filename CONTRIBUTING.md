@@ -12,6 +12,16 @@ These files will be changing, especially in the lead up to the that event date.
 
 This project adheres to a [code of conduct](https://www.mozilla.org/en-US/about/governance/policies/participation/). By participating, you are expected to uphold this code. Please report unacceptable behavior to davross@protonmail.com.
 
+### How to Get Started
+
+To start with, we are eleborating upon other people's work on Open Street Map. This is already not a unique project, and your contribution will assist a greater privacy effort globally.
+
+As a reflection of this, we are initially using the same framework they have started. (LINK TBD) Additional to this I have previously used Open Data Kit (ODK) during a Missing Maps London Working Group experiment. ODK has a phone/tablet app on Android called ODK. This will allow contributors to build their own local database. This could be used offline, hosted on your own server, and even stored in the cloud. (ODK Connect tutorial TBD). 
+
+We will not be using a collaborative database, as Open Street Map will handle this for us.
+
+If you have suggestions or changes to this initial workflow, [create an issue](https://github.com/peekdistrict/peekdistrict/issues), or submit a change as set out in the next section.
+
 ### How to Submit Changes
 
 Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
