@@ -18,7 +18,7 @@ This project adheres to a [code of conduct](https://www.mozilla.org/en-US/about/
 
 To start, we are simply eleborating upon other people's work on Open Street Map. This is already not a unique project, and your contribution will assist a greater privacy effort globally. Open Source projects require many hands to make things progress. Even just a few minutes of your time will improve your knowledge, but the ultimate goal is to improve the data available.
 
-As a reflection of this, we are initially using the same workfloe already started in OSM (nicely seen in the Germany based project [Surveillance Under Serveillance](https://kamba4.crux.uberspace.de/)). We will not be using a collaborative database, as Open Street Map will handle this for us. You might feel a little overwhelmed, but the basic workflow is this:
+As a reflection of this, we are initially using the same workflow already started in OSM (nicely seen in the Germany based project [Surveillance Under Serveillance](https://kamba4.crux.uberspace.de/)). We will not be using a collaborative database, as Open Street Map will handle this for us. You might feel a little overwhelmed, but the basic workflow is this:
 
   * Spot a camera
   * Note its location
