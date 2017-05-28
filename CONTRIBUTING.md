@@ -36,12 +36,19 @@ First time contributing to open source? Check out this free series, [How to Cont
 
 #### How to Map on Open Street Map
 
-As a rather long standing opens source project, Open Street Map has a large number of ways to contribute open data. More specifically to Peek District:
+As a rather long standing opens source project, Open Street Map has a large number of ways to contribute open data. More specifically to Peek District we will:
 
-  * local knowledge (mark any estimations in OSM with `fixme=*`)
-  * GPS tagging - ODK Connect (Android) etc.
+  1.  add a node to the map
+  2.  tag the node as a point of interest with `man_made=surveillance`
+
+Using one of the following:
+
+  * local knowledge - locations might be near you every day, you could note them in a pad/draw a rough map, or use very recent memory (mark any approximations in OSM with `fixme=*`)
+  * take a photograph or video recording - if the area is of tight security this may flag your activity.
+  * GPS tagging - ODK Connect ([Android](https://play.google.com/store/apps/details?id=org.odk.collect.android)), OsmAnd ([Android](https://play.google.com/store/apps/details?id=net.osmand) [iOS](https://itunes.apple.com/app/id934850257)), Maps.Me ([Android](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro) and [iOS](https://itunes.apple.com/app/id510623322)) etc.
   * On the Web - OSM's ID editor [Wiki](https://wiki.openstreetmap.org/wiki/ID) and [Login](www.openstreetmap.org/login?referer=%2Fedit%3Feditor%3Did)
   * Desktop app - OSM's JOSM editor [Wiki](http://wiki.openstreetmap.org/wiki/JOSM) and [Download](https://josm.openstreetmap.de/)
+  * Street-level imagery - you could do armchair mapping by working your way through areas covered with street-level imagery (such as Mapillary [Web](https://www.mapillary.com/app), ID (right side buttons > map data > photo overlay > Mapillary) JOSM (add the Mapillary plugin > edit > preferences > plugins > mapillary > install | top menu > imagery > Mapillary)) 
 
 ### Maintainers
 
