@@ -37,6 +37,8 @@ Once you've identified one of the issues above that you feel you can contribute 
 
 First time contributing to open source? Check out this free series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
+OK let's add some OSM data...
+
 ## Contributing Data to Open Street Map
 
 ### How to Map on Open Street Map
@@ -68,7 +70,6 @@ You could even contribute to Peek District in the comfort of your home by lookin
 
 If you're brand new to Open Street Map a great place to start is the [OSM Beginners Guide](http://wiki.openstreetmap.org/wiki/Beginners%27_guide) or [LearnOSM Getting Started on OSM](http://learnosm.org/en/beginner/start-osm/#beginning-osm-create-an-openstreetmap-account).
 
-OK let's start adding some data...
 ---
 ### Maintainers
 
