@@ -48,7 +48,7 @@ As a rather long standing opens source project, Open Street Map has a large numb
 #### Note camera location:
 
   * local knowledge - locations might be near you every day, you could note them in a pad/draw a rough map, or use very recent memory (mark any approximations in OSM with `fixme=*`)
-  * take a photograph or video recording - if the area is of tight security this may flag your activity.
+  * take a photograph or video recording - if the area is of tight security this may flag your activity. Do not put yourself in any risk.
   * GPS tagging - ODK Connect (requires a more advanced workflow but allows you to locally collect into a spreadsheet/database) ([Android](https://play.google.com/store/apps/details?id=org.odk.collect.android)), for more simpler workflows - OsmAnd ([Android](https://play.google.com/store/apps/details?id=net.osmand) [iOS](https://itunes.apple.com/app/id934850257)), Maps.Me ([Android](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro) and [iOS](https://itunes.apple.com/app/id510623322)), Mapillary ([Android](https://play.google.com/store/apps/details?id=app.mapillary) and [iOS](https://itunes.apple.com/us/app/mapillary/id757286802)), OpenStreetCam ([Android](https://play.google.com/store/apps/details?id=com.telenav.streetview) and [iOS](https://itunes.apple.com/app/id1089548849)) etc.
 
 #### Create a node and tag in OSM:
