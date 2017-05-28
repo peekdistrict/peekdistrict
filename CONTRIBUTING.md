@@ -12,6 +12,8 @@ These files will be changing, especially in the lead up to the that event date.
 
 This project adheres to a [code of conduct](https://www.mozilla.org/en-US/about/governance/policies/participation/). By participating, you are expected to uphold this code. Please report unacceptable behavior to davross@protonmail.com.
 
+---
+
 ### How to Get Started
 
 To start with, we are eleborating upon other people's work on Open Street Map. This is already not a unique project, and your contribution will assist a greater privacy effort globally.
