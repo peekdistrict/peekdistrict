@@ -32,6 +32,17 @@ Once you've identified one of the issues above that you feel you can contribute 
 
 First time contributing to open source? Check out this free series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
+### Contributing Data to Open Street Map
+
+#### How to Map on Open Street Map
+
+As a rather long standing opens source project, Open Street Map has a large number of ways to contribute open data. More specifically to Peek District:
+
+  * local knowledge (mark any estimations in OSM with `fixme=*`)
+  * GPS tagging - ODK Connect (Android) etc.
+  * On the Web - OSM's ID editor [Wiki](https://wiki.openstreetmap.org/wiki/ID) and [Login](www.openstreetmap.org/login?referer=%2Fedit%3Feditor%3Did)
+  * Desktop app - OSM's JOSM editor [Wiki](http://wiki.openstreetmap.org/wiki/JOSM) and [Download](https://josm.openstreetmap.de/)
+
 ### Maintainers
 
 The repository is currently maintained by [@bunnybooboo](https://github.com/bunnybooboo).
