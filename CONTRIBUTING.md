@@ -54,8 +54,13 @@ Most of those smartphone app allow you to also directly add a node into OSM. If 
 
 You could even contribute to Peek District in the comfort of your home by looking for surveillance cameras using street-level imagery:
 
-  * Mapillary [Web](https://www.mapillary.com/app), ID (right side buttons > map data > photo overlay > Mapillary) JOSM (add the Mapillary plugin > edit > preferences > plugins > mapillary > install | top menu > imagery > Mapillary)) 
-  * OpenStreetCam [Web](https://openstreetcam.org/map/)|[Web Lonon](https://openstreetcam.org/map/@51.484803739516046,-0.20187377929687503,11z) (more TBD this method is also missing from the [OSM wiki page](http://wiki.openstreetmap.org/wiki/Pick_your_mapping_technique#openstreetcam) but I assume it's the same as Mapillary?)
+  * Mapillary 
+    * [Web](https://www.mapillary.com/app)
+    * ID (right side buttons > map data > photo overlay > Mapillary)
+    * JOSM (add the Mapillary plugin > edit > preferences > plugins > mapillary > install | top menu > imagery > Mapillary)) 
+  * OpenStreetCam
+    * [Web](https://openstreetcam.org/map/) | [Web London centred](https://openstreetcam.org/map/@51.484803739516046,-0.20187377929687503,11z)
+    * (more TBD this method is also missing from the [OSM wiki page](http://wiki.openstreetmap.org/wiki/Pick_your_mapping_technique#openstreetcam) but I assume it's the same as Mapillary?)
 
 ### Maintainers
 
