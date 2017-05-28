@@ -36,8 +36,9 @@ First time contributing to open source? Check out this free series, [How to Cont
 
 As a rather long standing opens source project, Open Street Map has a large number of ways to contribute open data. More specifically to Peek District we will:
 
-  1.  add a node to the map
-  2.  tag the node as a point of interest with `man_made=surveillance`
+  1. add a node to the map
+  2. tag the node as a point of interest with `man_made=surveillance`
+  3. (TBD is this all we need?? The German project goes into way more depth. Camera type, owner, etc.)
 
 Using one of the following:
 
