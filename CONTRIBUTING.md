@@ -68,6 +68,7 @@ You could even contribute to Peek District in the comfort of your home by lookin
 
 If you're brand new to Open Street Map a great place to start is the [OSM Beginners Guide](http://wiki.openstreetmap.org/wiki/Beginners%27_guide) or [LearnOSM Getting Started on OSM](http://learnosm.org/en/beginner/start-osm/#beginning-osm-create-an-openstreetmap-account).
 
+---
 ### Maintainers
 
 The repository is currently maintained by [@bunnybooboo](https://github.com/bunnybooboo).
