@@ -69,6 +69,8 @@ If you're brand new to Open Street Map a great place to start is the [OSM Beginn
 
 The repository is currently maintained by [@bunnybooboo](https://github.com/bunnybooboo).
 
+**TBD edit of this page for beginners to easily grasp the workflow**
+
 ### How to Report Bugs
 
 Notice a mistake? Please file any bugs, requests, or questions in [our issue tracker](https://github.com/mozilla/peekdistrict/peekdistrict/issues)
