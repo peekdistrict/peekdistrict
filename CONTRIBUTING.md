@@ -32,9 +32,9 @@ Once you've identified one of the issues above that you feel you can contribute 
 
 First time contributing to open source? Check out this free series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
-### Contributing Data to Open Street Map
+## Contributing Data to Open Street Map
 
-#### How to Map on Open Street Map
+### How to Map on Open Street Map
 
 As a rather long standing opens source project, Open Street Map has a large number of ways to contribute open data. More specifically to Peek District we will:
 
