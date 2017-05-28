@@ -63,6 +63,8 @@ You could even contribute to Peek District in the comfort of your home by lookin
     * [Web](https://openstreetcam.org/map/) | [Web London centred](https://openstreetcam.org/map/@51.484803739516046,-0.20187377929687503,11z)
     * (more TBD this method is also missing from the [OSM wiki page](http://wiki.openstreetmap.org/wiki/Pick_your_mapping_technique#openstreetcam) but I assume it's the same as Mapillary?)
 
+If you're brand new to Open Street Map a great place to start is the [OSM Beginners Guide](http://wiki.openstreetmap.org/wiki/Beginners%27_guide) or [LearnOSM Getting Started on OSM](http://learnosm.org/en/beginner/start-osm/#beginning-osm-create-an-openstreetmap-account).
+
 ### Maintainers
 
 The repository is currently maintained by [@bunnybooboo](https://github.com/bunnybooboo).
