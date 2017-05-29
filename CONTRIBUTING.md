@@ -74,6 +74,8 @@ Most of those smartphone app allow you to also directly add a node into OSM. If 
   * On the Web - OSM's ID editor [Wiki](https://wiki.openstreetmap.org/wiki/ID) and [Login](www.openstreetmap.org/login?referer=%2Fedit%3Feditor%3Did)
   * Desktop app - OSM's JOSM editor [Wiki](http://wiki.openstreetmap.org/wiki/JOSM) and [Download](https://josm.openstreetmap.de/). Note that JOSM will require you to download a limited section of the map. When you first successfully open it: click on the `Download map data` icon > zoom into your required location > right click to drag the map > left click to select an area > select `Download` button. JOSM will download the OSM data layer. You can download a number of additional layers from: top menu > imagery. For example, you could select satellite imagery, or one of the street-level imagery plugins we'll discuss next.
 
+Note: mapping can be a little easier if you grab your mouse or graphic tablet. It's not essential.
+
 #### Armchair Mapping
 
 This method doesn not require you to leave your seat! You could even contribute to Peek District in the comfort of your home by looking for surveillance cameras using street-level imagery. This will be a little trickier, however. You will need to correlate what's going on in the imagery and attempt to plot it precisely into OSM. Using one of the above methods to add a node, tag, and commented hashtag, you can look through imagery and add a node when you see a camera. London is a great place if you're not sure where to start, but you can be mapping anywhere across the globe. Rather awesome that most of the tools already let you do this with street-level imagery:
