@@ -43,26 +43,40 @@ First time contributing to open source? Check out this free series, [How to Cont
 
 OK let's add some OSM data...
 
-## Contributing Data to Open Street Map
+## Contributing Open Data to Peek District
 
 ### How to Map on Open Street Map
 
+#### Login or Create Your Open Street Map Account
+
+New users can signup [HERE](https://www.openstreetmap.org/user/new). If you already have an account you can login [HERE](https://www.openstreetmap.org/login).
+
+If you're brand new to Open Street Map a great place to start is the [OSM Beginners Guide](http://wiki.openstreetmap.org/wiki/Beginners%27_guide) or [LearnOSM Getting Started on OSM](http://learnosm.org/en/beginner/start-osm/#beginning-osm-create-an-openstreetmap-account).
+
 As a rather long standing opens source project, Open Street Map has a large number of ways to contribute open data. More specifically to Peek District we will using one of the following:
 
-#### Note camera location:
+#### Noting camera location:
 
   * local knowledge - locations might be near you every day, you could note them in a pad/draw a rough map, or use very recent memory (mark any approximations in OSM with `fixme=*`)
   * take a photograph or video recording - if the area is of tight security this may flag your activity. Do not put yourself in any risk. Your device may also allow you to GPS tag the location the image is taken.
-  * GPS tagging in a smartphone app - ODK Connect (requires a more advanced workflow but allows you to locally collect into a spreadsheet/database) ([Android](https://play.google.com/store/apps/details?id=org.odk.collect.android)), for more simpler workflows - OsmAnd ([Android](https://play.google.com/store/apps/details?id=net.osmand) [iOS](https://itunes.apple.com/app/id934850257)), Maps.Me ([Android](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro) and [iOS](https://itunes.apple.com/app/id510623322)), Mapillary ([Android](https://play.google.com/store/apps/details?id=app.mapillary) and [iOS](https://itunes.apple.com/us/app/mapillary/id757286802)), OpenStreetCam ([Android](https://play.google.com/store/apps/details?id=com.telenav.streetview) and [iOS](https://itunes.apple.com/app/id1089548849)) etc.
+  * GPS tagging in a smartphone app
+    * ODK Connect (requires a more advanced workflow but allows you to locally collect into a spreadsheet/database) ([Android](https://play.google.com/store/apps/details?id=org.odk.collect.android))
+    * OsmAnd ([Android](https://play.google.com/store/apps/details?id=net.osmand) [iOS](https://itunes.apple.com/app/id934850257))
+    * Maps.Me ([Android](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro) and [iOS](https://itunes.apple.com/app/id510623322))
+    * Mapillary ([Android](https://play.google.com/store/apps/details?id=app.mapillary) and [iOS](https://itunes.apple.com/us/app/mapillary/id757286802))
+    * OpenStreetCam ([Android](https://play.google.com/store/apps/details?id=com.telenav.streetview) and [iOS](https://itunes.apple.com/app/id1089548849))
+    * and many more!
 
-#### Create a node and tag in OSM:
+#### Creating a node and tag in OSM:
 
-Most of those smartphone app allow you to also directly add a node into OSM. If you use one of the other methods, you will then need to add a node to OSM along with a tag (remember it's `man_made=surveillance` that we'll be) using one of the following:
+Most of those smartphone app allow you to also directly add a node into OSM. If you use one of the other methods, you will then need to add a node to OSM, along with its `man_made=surveillance` tag and #PeekDistrict in the comments
 
   * On the Web - OSM's ID editor [Wiki](https://wiki.openstreetmap.org/wiki/ID) and [Login](www.openstreetmap.org/login?referer=%2Fedit%3Feditor%3Did)
   * Desktop app - OSM's JOSM editor [Wiki](http://wiki.openstreetmap.org/wiki/JOSM) and [Download](https://josm.openstreetmap.de/)
 
-You could even contribute to Peek District in the comfort of your home by looking for surveillance cameras using street-level imagery:
+#### Armchair Mapping
+
+This method doesn not require you to leave your seat! You could even contribute to Peek District in the comfort of your home by looking for surveillance cameras using street-level imagery. This will be a little trickier, however. You will need to correlate what's going on in the imagery and attempt to plot it precisely into OSM. Using one of the above methods to add a node, tag, and commented hashtag, you can look through imagery and add a node when you see a camera. London is a great place if you're not sure where to start, but you can be mapping anywhere across the globe. Rather awesome that most of the tools already let you do this with street-level imagery:
 
   * Mapillary
     * [Web](https://www.mapillary.com/app)
@@ -72,14 +86,10 @@ You could even contribute to Peek District in the comfort of your home by lookin
     * [Web](https://openstreetcam.org/map/) | [Web London centred](https://openstreetcam.org/map/@51.484803739516046,-0.20187377929687503,11z)
     * (more TBD this method is also missing from the [OSM wiki page](http://wiki.openstreetmap.org/wiki/Pick_your_mapping_technique#openstreetcam) but I assume it's the same as Mapillary?)
 
-If you're brand new to Open Street Map a great place to start is the [OSM Beginners Guide](http://wiki.openstreetmap.org/wiki/Beginners%27_guide) or [LearnOSM Getting Started on OSM](http://learnosm.org/en/beginner/start-osm/#beginning-osm-create-an-openstreetmap-account).
-
 ---
 ### Maintainers
 
 The repository is currently maintained by [@bunnybooboo](https://github.com/bunnybooboo).
-
-**TBD edit of this page for beginners to easily grasp the workflow**
 
 ### How to Report Bugs
 
