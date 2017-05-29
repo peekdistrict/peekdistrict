@@ -12,19 +12,20 @@ By opening up this collaborative data we hope to improve public awareness; of st
 
 ### We're starting using: 
 [OpenStreetMap](http://www.openstreetmap.org/about)
-OSM tag [surveillance](http://wiki.openstreetmap.org/wiki/Tag:man_made%3Dsurveillance) and the [initial proposal](http://wiki.openstreetmap.org/wiki/Proposed_features/Surveillance) for the use of the tag
+OSM tag [surveillance](http://wiki.openstreetmap.org/wiki/Tag:man_made%3Dsurveillance) and the hashtags #PeekDistrict #MozSprint. For more details on the use of this OSM tag read the [initial proposal](http://wiki.openstreetmap.org/wiki/Proposed_features/Surveillance) on the wiki.
     
 ### How to Contribute
 
 [Contribution Guide](/CONTRIBUTING.md)
 
+This forms this basis of our intended work, mapping surveillance cameras. You might have skills which can help improve the storytelling, workflow, documentation, design, toolset, etc - in which case, please create an issue or fork and submit your improvements
+
+The OSM tag we are using is `man_made=surveillance`, the hashtags (for OSM data comments and social media) #PeekDistrict and #MozSprint.
+
+**TBD: IM, IRC, Slack**
+
 ### Code of Conduct
 [Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
-
-#### TBD
-    * Collaborative map layer
-Look at possible inegrations of GPS - I've used [ODK](https://opendatakit.org) previously. It also has an [Android only phone app](https://opendatakit.org/use/collect/). Check the video from the homepage https://www.youtube.com/watch?v=HqqUdfz9Uyc
-
 
 ### Links
   Chaos Computer Club talk from 2016's 33c3 - [Corporate surveillance, digital tracking, big data & privacy](https://www.youtube.com/watch?v=3ABaGEWjFIg)
