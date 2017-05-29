@@ -24,7 +24,7 @@ As a reflection of this, we are initially using the same workflow already starte
   * Note its location
   * Create a node in OSM
   * Tag the node with `man_made=surveillance`
-  * In the comments add the hashtag #PeekDistrict (to help us seee the affect of this project)
+  * In the comments add the hashtag #PeekDistrict (to help us see the affect of this project)
   * Save and upload the changes
 
 If you have suggestions or changes to this initial workflow, [create an issue](https://github.com/peekdistrict/peekdistrict/issues), or submit a change as set out in the next section.
