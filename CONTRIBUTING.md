@@ -72,7 +72,7 @@ As a rather long standing open source project, Open Street Map has a large numbe
 Most of those smartphone app allow you to also directly add a node into OSM. If you use one of the other methods, you will then need to add a node to OSM, along with its `man_made=surveillance` tag and #PeekDistrict in the comments
 
   * On the Web - OSM's ID editor [Wiki](https://wiki.openstreetmap.org/wiki/ID) and [Login](www.openstreetmap.org/login?referer=%2Fedit%3Feditor%3Did)
-  * Desktop app - OSM's JOSM editor [Wiki](http://wiki.openstreetmap.org/wiki/JOSM) and [Download](https://josm.openstreetmap.de/)
+  * Desktop app - OSM's JOSM editor [Wiki](http://wiki.openstreetmap.org/wiki/JOSM) and [Download](https://josm.openstreetmap.de/). Note that JOSM will require you to download a limited section of the map. When you first successfully open it: click on the `Download map data` icon > zoom into your required location > right click to drag the map > left click to select an area > select `Download` button. JOSM will download the OSM data layer. You can download a number of additional layers from: top menu > imagery. For example, you could select satellite imagery, or one of the street-level imagery plugins we'll discuss next.
 
 #### Armchair Mapping
 
