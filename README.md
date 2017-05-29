@@ -13,6 +13,8 @@ By opening up this collaborative data we hope to improve public awareness; of st
 ### We're starting using: 
 [OpenStreetMap](http://www.openstreetmap.org/about)
 OSM tag [surveillance](http://wiki.openstreetmap.org/wiki/Tag:man_made%3Dsurveillance) and the hashtags #PeekDistrict #MozSprint. For more details on the use of this OSM tag read the [initial proposal](http://wiki.openstreetmap.org/wiki/Proposed_features/Surveillance) on the wiki.
+
+Some of you might be asking '[Why use OpenStreetMap](http://geoawesomeness.com/why-would-you-use-openstreetmap-if-there-is-google-maps/)'. Aleks explains rather nicely.
     
 ### How to Contribute
 
