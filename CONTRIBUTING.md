@@ -1,6 +1,6 @@
 ## Contributing to the Global Sprint
 
-Thanks for your interest in contributing to the 'Peek District' for the Mozilla's Global Sprint 2017.
+Thanks for your interest in contributing to the 'Peek District' for Mozilla's Global Sprint 2017.
 
 This is our Github presence during the Global Sprint running June 1-2, 2017.
 
