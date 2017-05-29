@@ -18,16 +18,20 @@ This project adheres to a [code of conduct](https://www.mozilla.org/en-US/about/
 
 To start, we are simply elaborating upon other people's work on Open Street Map. This is already not a unique project, and your contribution will assist a greater privacy effort globally. Open Source projects require many hands to make things progress. Even just a few minutes of your time will improve your knowledge, but the ultimate goal is to improve the data available.
 
-As a reflection of this, we are initially using the same workflow already started in OSM (nicely seen in the Germany based project [Surveillance Under Surveillance](https://kamba4.crux.uberspace.de/)). We will not be using a collaborative database, as Open Street Map will handle this for us. You might feel a little overwhelmed, but the basic workflow is this:
+As a reflection of this, we are initially using the same workflow already started in OSM (nicely seen in the Germany based project [Surveillance Under Surveillance](https://kamba4.crux.uberspace.de/)). We will not be using a collaborative database, as Open Street Map will handle this for us. You might feel a little overwhelmed at the beginning, but the basic workflow is this:
 
   * Spot a camera
   * Note its location
   * Create a node in OSM
   * Tag the node with `man_made=surveillance`
+  * In the comments add the hashtag #PeekDistrict (to help us seee the affect of this project)
+  * Save and upload the changes
 
 If you have suggestions or changes to this initial workflow, [create an issue](https://github.com/peekdistrict/peekdistrict/issues), or submit a change as set out in the next section.
 
 ### How to Submit Changes to this Github Repo
+
+Contributing to Peek District could take a number of forms. You might love correcting grammar, and spelling errors. You might be a coder, and have a concept in mind to help speed up our workflow. Suggestions, fixes, improvement, amplification, are just a selection.
 
 Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
 
