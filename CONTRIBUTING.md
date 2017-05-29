@@ -20,9 +20,9 @@ To start, we are simply elaborating upon other people's work on Open Street Map 
 
 As a reflection of this, we are initially using the same workflow already started in OSM (nicely seen in the Germany based project [Surveillance Under Surveillance](https://kamba4.crux.uberspace.de/)). We will not be using a collaborative database, as Open Street Map will handle this for us. You might feel a little overwhelmed at the beginning, but the basic workflow is this:
 
-  * Spot a camera
-  * Note its location
-  * Create a node in OSM
+  * See a camera - types of cameras can be found [HERE](http://www.cepro.com/article/12_common_types_of_security_cameras/)
+  * Note its location - write details on your hand, on a piece of paper, in an app, etc.
+  * Create a node in OSM - using one of the apps detailed below
   * Tag the node with `man_made=surveillance`
   * In the comments add the hashtag #PeekDistrict (to help us see the affect of this project)
   * Save and upload the changes
