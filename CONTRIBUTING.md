@@ -81,11 +81,11 @@ This method doesn not require you to leave your seat! You could even contribute 
   * Mapillary
     * [Web](https://www.mapillary.com/app)
     * ID (right side buttons > map data > photo overlay > Mapillary)
-    * JOSM (add the Mapillary plugin > edit > preferences > plugins > mapillary > install | top menu > imagery > Mapillary))
+    * JOSM (add the Mapillary plugin > edit > preferences > plugins > mapillary > checkbox > OK | top menu > imagery > Mapillary))
   * OpenStreetCam
     * [Web](https://openstreetcam.org/map/) | [Web London centred](https://openstreetcam.org/map/@51.484803739516046,-0.20187377929687503,11z)
-    * (more TBD this method is also missing from the [OSM wiki page](http://wiki.openstreetmap.org/wiki/Pick_your_mapping_technique#openstreetcam) but I assume it's the same as Mapillary?)
-
+    * ID (more TBD this method is also missing from the [OSM wiki page](http://wiki.openstreetmap.org/wiki/Pick_your_mapping_technique#openstreetcam) but I assume it's the same as Mapillary?)
+    * JOSM (to add the OpenStreetCam plugin > edit > preferences > plugins > openstreetcam > checkbox > OK | to activate plugin > top menu > imagery > OpenStreetCam) - any new imagery will appear as a light blue circular icon, with a white arrow indicating the photograph direction. (TBD add these steps to OSM wiki)
 ---
 ### Maintainers
 
