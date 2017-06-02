@@ -62,7 +62,7 @@ As a rather long standing open source project, Open Street Map has a large numbe
   * GPS tagging in a smartphone app
     * ODK Connect (requires a more advanced workflow but allows you to locally collect into a spreadsheet/database) ([Android](https://play.google.com/store/apps/details?id=org.odk.collect.android))
     * ~OsmAnd ([Android](https://play.google.com/store/apps/details?id=net.osmand) [iOS](https://itunes.apple.com/app/id934850257))~ does not seem to allow creation of surveillance node
-    * Maps.Me ([Android](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro) and [iOS](https://itunes.apple.com/app/id510623322))
+    * ~Maps.Me ([Android](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro) and [iOS](https://itunes.apple.com/app/id510623322))~
     * Mapillary ([Android](https://play.google.com/store/apps/details?id=app.mapillary) and [iOS](https://itunes.apple.com/us/app/mapillary/id757286802))
     * OpenStreetCam ([Android](https://play.google.com/store/apps/details?id=com.telenav.streetview) and [iOS](https://itunes.apple.com/app/id1089548849))
     * and many more!
